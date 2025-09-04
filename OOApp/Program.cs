@@ -17,7 +17,7 @@ namespace OOApp
                 Firstname = "Anna"
             };
 
-            Teacher andreas = new Teacher(1, "Andreas", "Mosxos");
+            Teacher andreas = new Teacher(1, "Andreas", "Mosxos", SchoolType.EKEK);
         }
     }
 }
