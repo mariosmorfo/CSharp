@@ -78,6 +78,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsComparerApp", "Prod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqApp", "LinqApp\LinqApp.csproj", "{004EA006-46B7-47A1-A8F8-13F7B871EE54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStarter7DBApp", "WebStarter7DBApp\WebStarter7DBApp.csproj", "{CB985255-2B71-4CBE-8B94-49AB7FF78DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolApp", "SchoolApp\SchoolApp.csproj", "{86778D5C-5963-46A0-9B4D-C06AF201DD49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -224,6 +228,14 @@ Global
 		{004EA006-46B7-47A1-A8F8-13F7B871EE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{004EA006-46B7-47A1-A8F8-13F7B871EE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{004EA006-46B7-47A1-A8F8-13F7B871EE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB985255-2B71-4CBE-8B94-49AB7FF78DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB985255-2B71-4CBE-8B94-49AB7FF78DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB985255-2B71-4CBE-8B94-49AB7FF78DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB985255-2B71-4CBE-8B94-49AB7FF78DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86778D5C-5963-46A0-9B4D-C06AF201DD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86778D5C-5963-46A0-9B4D-C06AF201DD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86778D5C-5963-46A0-9B4D-C06AF201DD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86778D5C-5963-46A0-9B4D-C06AF201DD49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
