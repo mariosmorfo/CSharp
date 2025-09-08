@@ -19,9 +19,9 @@ namespace SchoolApp.Models
                 .FirstOrDefaultAsync();
         }
 
-        public async Task<List<Course>> GetTeacherCoursesAsync(int id)
+        public async Task<List<Data.Course>> GetTeacherCoursesAsync(int id)
         {
-            List<Course> courses;
+            List<Data.Course> courses;
             courses = await context.Teachers
                 .Where(t => t.Id == id)
                 .SelectMany(t =>t.Courses).ToListAsync();
